@@ -46,13 +46,13 @@ pip install streamlit groq requests
 
 ## How To Run It
 
-In your terminal inside this folder run:
+**Mac/Linux — double click `run.sh`**
+Or in terminal:
 
-streamlit run app.py
+run.bat
 
-Your browser will open automatically.
-
----
+The script installs everything automatically and opens 
+the app in your browser. No manual setup needed.
 
 ## How To Use It
 
